@@ -1,7 +1,4 @@
 # STM32G431_CANopen_demo
-
-https://github.com/skpang/STM32G431_CANopen_demo/blob/main/Project_utils/CANopenMagic.png
- 
 STM32G431 CANopen demo skpang.co.uk 07/23
  *
  * This demo uses the CANopenNode from:
